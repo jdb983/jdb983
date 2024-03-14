@@ -1,7 +1,5 @@
 ### Olá! Eu sou Júlia Bonfá 👋
 
-- 🔭 Hoje trabalho com infra
-- 🌱 Estudando Python
 - 😄 Pronomes: ela/dela
 
 <div> 
